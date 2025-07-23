@@ -9,12 +9,12 @@ A simple yet addictive hyper-casual game prototype built in Unity. The goal is t
 
 ## Table of contents
 
-- [About The Project](#-about-the-project)
-- [Gameplay](#-gameplay)
-- [Key Features](#-key-features)
-- [Built With](#️-built-with)
-- [Getting Started](#-getting-started)
-- [Future Ideas](#-future-ideas)
+- [About The Project](#about-the-project)
+- [Gameplay](#gameplay)
+- [Key Features](#key-features)
+- [Built With](#️built-with)
+- [Getting Started](#getting-started)
+- [Future Ideas](#future-ideas)
 
 ## About The Project
 
