@@ -1,7 +1,6 @@
 # Tower Stack
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 ![Gameplay Demo](./demo.gif)
 
@@ -38,8 +37,7 @@ This project was developed as a tutorial to learn and demonstrate fundamental Un
 -   **Dynamic UI:** A TextMeshPro-based interface displays the current score, as well as a game-over screen with the final score and a restart button.
 
 ## Built With
-
--   **[Unity](https://unity.com/)** (Version 6000.0.53f1)
+-   **[Unity](https://unity.com/)** (Unity 6)
 -   **[C#](https://docs.microsoft.com/en-us/dotnet/csharp/)**
 -   **[TextMeshPro](https://docs.unity3d.com/Packages/com.unity.textmeshpro@3.0/manual/index.html)** for text rendering
 
@@ -49,7 +47,7 @@ To get a local copy up and running, follow these simple steps:
 
 1.  Clone the repository:
     ```sh
-    git clone https://github.com/YourUsername/Tower-Stacker-Unity.git
+    git clone https://github.com/AngelofDeath19/Tower-Stacker-Unity.git
     ```
 2.  Open the project in **Unity Hub** (ensure you have a compatible Unity version installed).
 3.  Once the project is loaded, open the main scene located in the `Assets/Scenes/` folder.
